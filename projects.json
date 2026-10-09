@@ -41,14 +41,6 @@
   },
   {
     "service": "kitchen",
-    "title": "Modern Marble Kitchen",
-    "location": "",
-    "folder": "modern-marble-kitchen",
-    "count": 1,
-    "ext": "jpg"
-  },
-  {
-    "service": "kitchen",
     "title": "Bright White Kitchen",
     "location": "",
     "folder": "bright-white-kitchen",
