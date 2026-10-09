@@ -62,13 +62,5 @@
     "folder": "new-flooring-install",
     "count": 2,
     "ext": "jpg"
-  },
-  {
-    "service": "flooring",
-    "title": "test",
-    "location": "",
-    "folder": "test",
-    "count": 1,
-    "ext": "jpg"
   }
 ]
