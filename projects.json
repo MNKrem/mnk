@@ -1,14 +1,6 @@
 [
   {
     "service": "bathroom",
-    "title": "Primary Suite Remodel",
-    "location": "Aurora, IL",
-    "folder": "primary-suite-remodel",
-    "count": 13,
-    "ext": "jpg"
-  },
-  {
-    "service": "bathroom",
     "title": "Guest Bath Update",
     "location": "",
     "folder": "guest-bath-update",
