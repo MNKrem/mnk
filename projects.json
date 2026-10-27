@@ -1,14 +1,6 @@
 [
   {
     "service": "bathroom",
-    "title": "Tub & Shower Refresh",
-    "location": "",
-    "folder": "tub-shower-refresh",
-    "count": 6,
-    "ext": "jpg"
-  },
-  {
-    "service": "bathroom",
     "title": "Classic Bath Update",
     "location": "",
     "folder": "classic-bath-update",
