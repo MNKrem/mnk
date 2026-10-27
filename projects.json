@@ -1,14 +1,6 @@
 [
   {
     "service": "bathroom",
-    "title": "Guest Bath Update",
-    "location": "",
-    "folder": "guest-bath-update",
-    "count": 13,
-    "ext": "jpg"
-  },
-  {
-    "service": "bathroom",
     "title": "Double-Vanity Bath",
     "location": "",
     "folder": "double-vanity-bath",
