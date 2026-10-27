@@ -1,13 +1,5 @@
 [
   {
-    "service": "bathroom",
-    "title": "Classic Bath Update",
-    "location": "",
-    "folder": "classic-bath-update",
-    "count": 5,
-    "ext": "jpg"
-  },
-  {
     "service": "kitchen",
     "title": "Bright White Kitchen",
     "location": "",
