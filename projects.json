@@ -30,13 +30,5 @@
     "folder": "stairs-fireplace-refresh",
     "count": 4,
     "ext": "jpg"
-  },
-  {
-    "service": "flooring",
-    "title": "New Flooring Install",
-    "location": "",
-    "folder": "new-flooring-install",
-    "count": 2,
-    "ext": "jpg"
   }
 ]
