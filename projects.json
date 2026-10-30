@@ -46,5 +46,13 @@
     "folder": "contemporary-warm-wood-white-bathroom-remodel",
     "count": 4,
     "ext": "jpg"
+  },
+  {
+    "service": "bathroom",
+    "title": "Aura Bath Residence",
+    "location": "Aurora",
+    "folder": "aura-bath-residence",
+    "count": 1,
+    "ext": "jpg"
   }
 ]
