@@ -22,5 +22,13 @@
     "folder": "sleek-minimalist-bathroom-remodel",
     "count": 1,
     "ext": "jpg"
+  },
+  {
+    "service": "bathroom",
+    "title": "Elegant Navy & Gold Bathroom Remodel",
+    "location": "Aurora",
+    "folder": "elegant-navy-gold-bathroom-remodel",
+    "count": 1,
+    "ext": "jpg"
   }
 ]
