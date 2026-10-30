@@ -30,5 +30,13 @@
     "folder": "elegant-navy-gold-bathroom-remodel",
     "count": 4,
     "ext": "jpg"
+  },
+  {
+    "service": "whole-home",
+    "title": "Living Room Transformation",
+    "location": "Aurora",
+    "folder": "living-room-transformation",
+    "count": 1,
+    "ext": "jpg"
   }
 ]
