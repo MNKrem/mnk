@@ -14,5 +14,13 @@
     "folder": "modern-master-bathroom",
     "count": 5,
     "ext": "jpg"
+  },
+  {
+    "service": "bathroom",
+    "title": "Sleek Minimalist Bathroom Remodel",
+    "location": "Naperville",
+    "folder": "sleek-minimalist-bathroom-remodel",
+    "count": 1,
+    "ext": "jpg"
   }
 ]
